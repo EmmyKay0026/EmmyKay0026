@@ -30,6 +30,7 @@ I design scalable product architectures, turn creative ideas into robust softwar
 | **Backend & DevOps** | Node.js, API Design, Database Architecture, WordPress, Hosting Infrastructure |
 | **Automation & CRM** | Zoho Automation, Zoho Cliq Integration, Lead Generation Workflows |
 | **Optimization** | On-page SEO, Core Web Vitals, Performance Tuning |
+| **DevOps** | CICD, Docker |
 
 ---
 
@@ -40,13 +41,20 @@ I design scalable product architectures, turn creative ideas into robust softwar
 - ⚙️ **Kaego:** Executed full WordPress infrastructure upgrades with localized Zoho automation workflows to cleanly funnel client acquisitions.
 
 ---
-
-### 📊 GitHub Statistics
+### 📊 GitHub Activity & Focus
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmmyKay0026&show_icons=true&theme=visual&count_private=true" alt="Emmanuel's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmyKay0026&layout=compact&theme=visual" alt="Top Languages" />
+  <!-- Grid layout for clean presentation -->
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmyKay0026&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Emmanuel's Contribution Graph" />
+  </p>
 </div>
 
 ---
